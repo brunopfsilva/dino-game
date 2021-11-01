@@ -3,6 +3,7 @@
     height: 60px;
     background-color: green;
     position: absolute;
+    border-radius: 10px 0px 100px 30px;
     bottom: 1px;
 }
 
