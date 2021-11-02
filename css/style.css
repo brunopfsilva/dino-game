@@ -10,3 +10,13 @@
 .background {
    
 }
+
+
+.cactus {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    border-radius: 10px 0px 100px 30px;
+    bottom: 1px;
+}
